@@ -1,32 +1,36 @@
 ![499531787-3cc6c3dd-1b88-48bd-9b84-af7f29ff16ea](https://github.com/user-attachments/assets/313eda8b-36c9-44d0-aec7-4ec31cf22af2)
 
-## 👻 Caça aos Bugs 2025 - Desafio 01 - Spore
+👻 Bug Hunt 2025 - Challenge 01 - Spore
 
-Oi, eu sou o [seu nome aqui] e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **Caça aos Bugs 2025**, realizado pelo [balta.io](https://balta.io). 👻
+Hi, I’m Daniel Firmino, and this is the space where I share my learning journey during the Bug Hunt 2025 challenge organized by balta.io. 👻
 
-Aqui você vai encontrar projetos, exercícios e códigos que estou desenvolvendo durante o desafio. O objetivo é colocar a mão na massa, testar ideias e registrar minha evolução no mundo da tecnologia.
+Here you’ll find the projects, exercises, and code I’ve been working on throughout the challenge.
+The goal is to get hands-on experience, test ideas, and track my progress in the tech world.
 
-### Sobre este desafio
-No desafio **Spore** eu tive que preparar o ambiente local, fazendo download do código fonte da aplicação, executando as Migrations e criando as variáveis de ambiente.
-Neste processo eu aprendi:
-* ✅ Clonar repositórios
-* ✅ Gerar migrações e aplicá-las
-* ✅ Configurar variáveis de ambiente locais
-* ✅ Utilizar o `dotnet user-secrets`
+About this challenge
 
-## REGRAS DO DESAFIO
-- [ ] Realizar um fork do repositório do desafio
-- [ ] Instalar o .NET 9
-- [ ] Instalar o Visual Studio Code, Visual Studio ou Rider
-- [ ] Configurar as variáveis de ambiente
-- [ ] Criar uma Migration usando Entity Framework
-- [ ] Gerar o banco de dados
-- [ ] Executar a aplicação
-- [ ] Testar a aplicação
+In the Spore challenge, I had to prepare my local environment by downloading the application’s source code, running migrations, and setting up environment variables.
+During this process, I learned how to:
+	•	✅ Clone repositories
+	•	✅ Create and apply migrations
+	•	✅ Configure local environment variables
+	•	✅ Use dotnet user-secrets
 
-## Sobre o Caça aos Bugs
-O desafio **Caça aos Bugs 2025** consiste em encontrar bugs e sugerir melhorias para aplicações em cenários reais. Durante os 9 desafios desta jornada, os participantes são submetidos ao aprendizado e prática de Depuração de Aplicações, Testes de Unidade, Testes E2E, Melhorias de UI, Melhorias de Performance, Deployment e Infraestrutura,
-Banco de Dados.
+CHALLENGE RULES
+	•	Fork the challenge repository
+	•	Install .NET 9
+	•	Install Visual Studio Code, Visual Studio, or Rider
+	•	Configure environment variables
+	•	Create a Migration using Entity Framework
+	•	Generate the database
+	•	Run the application
+	•	Test the application
 
-### Veja meu progresso no desafio
-[Incluir link para o repositório central]
+About Bug Hunt 2025
+
+The Bug Hunt 2025 challenge is all about finding bugs and suggesting improvements for real-world applications.
+Throughout the 9 challenges in this journey, participants dive into debugging, unit testing, E2E testing, UI improvements, performance optimization, deployment and infrastructure, and database management.
+
+Check out my progress in the challenge
+
+[Include link to the main repository]
